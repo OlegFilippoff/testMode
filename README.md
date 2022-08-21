@@ -1,5 +1,7 @@
 # testMode
 
+[![Build status](https://ci.appveyor.com/api/projects/status/d69osyhplvvt3c5y/branch/master?svg=true)](https://ci.appveyor.com/project/OlegFilippoff/testmode/branch/master)
+
 # Домашнее задание к занятию «2.3. Patterns»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
