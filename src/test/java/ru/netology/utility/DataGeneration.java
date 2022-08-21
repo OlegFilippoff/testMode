@@ -19,9 +19,9 @@ public class DataGeneration {
         private Registration() {
         }
 
-        private static final Faker faker = new Faker(new Locale("en"));
+        private static Faker faker = new Faker(new Locale("en"));
 
-        private static final RequestSpecification requestSpec = new RequestSpecBuilder()
+        private static RequestSpecification requestSpec = new RequestSpecBuilder()
                 .setBaseUri("http://localhost")
                 .setPort(9999)
                 .setAccept(ContentType.JSON)
